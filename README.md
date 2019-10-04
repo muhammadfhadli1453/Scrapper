@@ -6,4 +6,4 @@ This is a scrapper machine for Jobstreet. How to use:
   
  Things you should know about this code:
   1. In the .ipynb file, you can configure how many page you want to scrap
-  2. My first plan was to store all of the scrapped data into MySQL, but I still got some error
+  2. My first plan was to store all of the scrapped data into MySQL, but I still got some error. So I just store all the scrapped data into a list named "Table"
